@@ -1,0 +1,12 @@
+.office{
+    color:white;
+    margin:1px;
+    border:2px solid rgb(219, 153, 29);
+    background-color: orange;
+    text-align: center;
+}
+.title{
+    text-align: center;
+    color: blue;
+
+}
